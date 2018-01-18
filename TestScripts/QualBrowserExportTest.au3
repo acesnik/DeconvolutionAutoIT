@@ -1,0 +1,5 @@
+sleep(2000)
+MouseClick("secondary", 1059,754)
+sleep(5000)
+$aPos = MouseGetPos()
+MsgBox(0, "Mouse x, y:", $aPos[0] & ", " & $aPos[1])

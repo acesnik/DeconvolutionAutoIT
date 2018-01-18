@@ -1,0 +1,1 @@
+WinClose("Thermo Xcalibur Qual Browser")
